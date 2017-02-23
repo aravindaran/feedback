@@ -1,0 +1,9 @@
+/* CSS for FeedbackXBlock */
+
+.feedback_block .count {
+    font-weight: bold;
+}
+
+.feedback_block p {
+    cursor: pointer;
+}

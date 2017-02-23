@@ -1,0 +1,14 @@
+feedback/__init__.py
+feedback/feedback.py
+feedback/static/README.txt
+feedback/static/css/feedback.css
+feedback/static/html/feedback.html
+feedback/static/html/feedback_edit.html
+feedback/static/js/src/feedback.js
+feedback/static/js/src/feedback_edit.js
+feedback_xblock.egg-info/PKG-INFO
+feedback_xblock.egg-info/SOURCES.txt
+feedback_xblock.egg-info/dependency_links.txt
+feedback_xblock.egg-info/entry_points.txt
+feedback_xblock.egg-info/requires.txt
+feedback_xblock.egg-info/top_level.txt
